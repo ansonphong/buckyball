@@ -1,4 +1,4 @@
-# 📐🛠️ BUILDING PHONG BUCKY BALL
+# 📐🛠️ PHONG BUCKY BALL
 #### Comprehensive Building Plan for a 5/8 Truncated Icosahedron Buckyball Structure
 
 ## Overview
