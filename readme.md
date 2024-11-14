@@ -1,9 +1,9 @@
 # 📐🛠️ BUILDING PHONG BUCKY BALL
-### Comprehensive Building Plan for a 5/8 Truncated Icosahedron Buckyball Structure
+#### Comprehensive Building Plan for a 5/8 Truncated Icosahedron Buckyball Structure
 
 ## Overview
 
-This plan outlines the steps to construct a 5/8 truncated icosahedron (buckyball) using 4x4x10 cedar posts for framing. Each face of the buckyball will be either a hexagon, pentagon, or half-hexagon, built as independent panels that slot together. The hexagons have an edge-to-edge width of 8 feet, resulting in a structure approximately 22.89 feet in diameter.
+This plan outlines the steps to construct a 5/8 truncated icosahedron (buckyball) using 4x4x10 cedar posts for framing. Each face of the buckyball will be either a hexagon, pentagon, or half-pentagon, built as independent panels that slot together. The hexagons have an edge-to-edge width of 8 feet, resulting in a structure approximately 22.89 feet in diameter.
 
 ---
 
@@ -11,61 +11,72 @@ This plan outlines the steps to construct a 5/8 truncated icosahedron (buckyball
 
 ### Lumber
 
-- **4x4x10 ft Cedar Posts**: **Total required: 115 pieces**
+- **4x4x10 ft Cedar Posts**: **Total required: 95 pieces**
   - **Hexagons**:
-    - Number of hexagons: 12
+    - Number of hexagons: 15
     - Edges per hexagon: 6
-    - Total edges: 12 x 6 = 72
+    - Total edges: 15 x 6 = **90 edges**
   - **Pentagons**:
-    - Number of pentagons: 20
+    - Number of pentagons: 6
     - Edges per pentagon: 5
-    - Total edges: 20 x 5 = 100
-  - **Half-Hexagons**:
-    - Number of half-hexagons: 6
-    - Edges per half-hexagon: 4 (since one side is open)
-    - Total edges: 6 x 4 = 24
-  - **Total Edges Required**: 72 + 100 + 24 = **196 edges**
+    - Total edges: 6 x 5 = **30 edges**
+  - **Half-Pentagons**:
+    - Number of half-pentagons: 5
+    - Edges per half-pentagon: 3 (since it's a half pentagon)
+    - Total edges: 5 x 3 = **15 edges**
+  - **Total Edges Required**: 90 + 30 + 15 = **135 edges**
   - **Length per edge**: Approximately 5 feet (after cuts)
-  - **Posts per edge**: 1
-  - **Total Posts Required**: 196 edges x 1 post per edge = **196 posts**
+  - **Edges per 10 ft post**: 2 edges
+  - **Total Posts Required**: \( \frac{135 \text{ edges}}{2 \text{ edges per post}} = 67.5 \text{ posts} \)
   - **Accounting for Cuts and Waste**: Assume 15% extra
-    - 196 posts x 1.15 ≈ **225 posts**
-  - **Actual Purchase**: Since each 4x4x10 can produce two 5-foot sections, you need 225/2 = **113 posts**
-  - **Final Quantity**: **Purchase 115 posts** to ensure extra material for errors and reinforcements.
+    - \( 67.5 \text{ posts} \times 1.15 \approx 77.6 \text{ posts} \)
+  - **Final Quantity**: **Purchase 80 posts** to ensure extra material for errors and reinforcements.
 
 ### Hardware
 
 - **Stainless Steel Bolts**:
   - **Size**: 1/2-inch diameter, 8-inch length
-  - **Quantity**: 3 bolts per joint
-    - Total joints: (Total edges x 2 ends per edge) / 2 (since joints are shared)
-    - Total joints: (196 x 2) / 2 = 196 joints
-    - Total bolts: 196 joints x 3 bolts = **588 bolts**
+  - **Quantity**:
+    - **Hexagon Joints**:
+      - Edges per hexagon: 6
+      - Joints per hexagon: 6
+      - Total hexagon joints: 15 x 6 = **90 joints**
+    - **Pentagon Joints**:
+      - Edges per pentagon: 5
+      - Joints per pentagon: 5
+      - Total pentagon joints: 6 x 5 = **30 joints**
+    - **Half-Pentagon Joints**:
+      - Edges per half-pentagon: 3
+      - Joints per half-pentagon: 3
+      - Total half-pentagon joints: 5 x 3 = **15 joints**
+    - **Total Joints**: 90 + 30 + 15 = **135 joints**
+    - **Bolts per Joint**: 3
+    - **Total Bolts Required**: 135 joints x 3 bolts = **405 bolts**
 - **Stainless Steel Nuts**:
   - **Size**: 1/2-inch
-  - **Quantity**: **588 nuts**
+  - **Quantity**: **405 nuts**
 - **Stainless Steel Washers**:
   - **Size**: 1/2-inch
-  - **Quantity**: **1,176 washers** (2 per bolt)
+  - **Quantity**: **810 washers** (2 per bolt)
 
 ### Additional Materials
 
 - **Plywood Sheets**:
   - **Type**: 4x8 ft exterior-grade plywood
   - **For Hexagons**:
-    - Number of hexagons: 12
+    - Number of hexagons: 15
     - Sheets per hexagon: 1
-    - Total sheets: **12 sheets**
+    - Total sheets: **15 sheets**
   - **For Pentagons**:
-    - Number of pentagons: 20
-    - Sheets per pentagon: Calculated based on shape (approx. 0.8 sheets)
-    - Total sheets: 20 x 0.8 ≈ **16 sheets**
-  - **For Half-Hexagons**:
-    - Number of half-hexagons: 6
-    - Sheets per half-hexagon: 0.5
-    - Total sheets: 6 x 0.5 = **3 sheets**
-  - **Total Plywood Sheets Required**: 12 + 16 + 3 = **31 sheets**
-  - **Purchase**: **35 sheets** to account for waste and errors
+    - Number of pentagons: 6
+    - Sheets per pentagon: Approximately 0.7 sheets
+    - Total sheets: 6 x 0.7 ≈ **4.2 sheets**
+  - **For Half-Pentagons**:
+    - Number of half-pentagons: 5
+    - Sheets per half-pentagon: Approximately 0.35 sheets
+    - Total sheets: 5 x 0.35 ≈ **1.75 sheets**
+  - **Total Plywood Sheets Required**: 15 + 4.2 + 1.75 ≈ **21 sheets**
+  - **Purchase**: **25 sheets** to account for waste and errors
 
 - **Reinforcement Pieces**:
   - **Scrap Cedar** from cuts for reinforcing joints
@@ -93,11 +104,13 @@ This plan outlines the steps to construct a 5/8 truncated icosahedron (buckyball
 
 ## 3. Cut Instructions
 
-Each edge piece requires three specific cuts on each end to achieve the correct angles for assembly.
+Each edge piece requires specific cuts on each end to achieve the correct angles for assembly.
 
 ### Edge Length Calculation
 
-- **Edge Length**: 5 feet (to fit within 8 ft edge-to-edge hexagon)
+- **Edge Length (s)**:
+  - From previous calculations, \( s \approx 4.6188 \text{ ft} \)
+  - Use 5 ft sections for ease and to allow for cuts.
 
 ### Cuts on Each End of the 4x4x5 ft Sections
 
@@ -109,13 +122,14 @@ Each edge piece requires three specific cuts on each end to achieve the correct 
    - **Purpose**: Allows edges to meet at the correct angle when forming the hexagon
 
 2. **Bevel Cut**:
-   - **Angle**: 0 degrees (no bevel required for hexagons)
-   - **Direction**: Saw blade remains vertical
+   - **Angle**: Approximately 9.5 degrees
+   - **Direction**: Saw blade tilted vertically
+   - **Purpose**: Accommodates the 3D curvature of the structure
 
 3. **Rip Cut**:
-   - **Angle**: Approximately 19.1 degrees
-   - **Direction**: Cut along the thickness of the 4x4 to create the correct face angle
-   - **Purpose**: Ensures the face of the 4x4 aligns flush with the plane of the hexagon
+   - **Angle**: Approximately 9.5 degrees
+   - **Direction**: Cut along the thickness to taper the edge
+   - **Purpose**: Ensures edges fit together seamlessly in 3D space
 
 #### For Pentagons:
 
@@ -124,45 +138,47 @@ Each edge piece requires three specific cuts on each end to achieve the correct 
    - **Direction**: Miter saw set to 36 degrees horizontally
 
 2. **Bevel Cut**:
-   - **Angle**: 0 degrees (no bevel required for pentagons)
+   - **Angle**: Approximately 9.5 degrees
+   - **Direction**: Saw blade tilted vertically
 
 3. **Rip Cut**:
-   - **Angle**: Approximately 18 degrees
+   - **Angle**: Approximately 9.5 degrees
    - **Direction**: Similar to hexagons, adjust for pentagon geometry
 
-#### For Half-Hexagons:
+#### For Half-Pentagons:
 
 1. **Miter Cut**:
-   - **Angle**: 30 degrees on the connected ends, 90 degrees on the open ends
+   - **Angle**: 36 degrees on connected ends, 90 degrees on open ends
    - **Direction**: Adjust miter saw accordingly
 
 2. **Bevel Cut**:
-   - **Angle**: 0 degrees
+   - **Angle**: Approximately 9.5 degrees on connected ends, 0 degrees on open ends
 
 3. **Rip Cut**:
-   - **Angle**: 19.1 degrees on connected ends, none on open ends
+   - **Angle**: 9.5 degrees on connected ends, none on open ends
 
 ### Detailed Cutting Steps
 
 1. **Measure and Mark**:
    - Cut 5-foot sections from the 10-foot posts.
-   - Mark the miter angles on each end.
+   - Mark the miter and bevel angles on each end.
 
 2. **Set Up Miter Saw**:
    - Adjust miter angle to required degrees for hexagons (30°) or pentagons (36°).
+   - Adjust bevel angle to 9.5°.
 
-3. **Perform Miter Cuts**:
-   - Cut both ends of each piece with the appropriate miter angle.
+3. **Perform Miter and Bevel Cuts**:
+   - Cut both ends of each piece with the appropriate miter and bevel angles.
 
 4. **Set Up Table Saw for Rip Cuts**:
-   - Tilt the blade to the required rip angle (19.1° for hexagons, 18° for pentagons).
-   - Adjust the fence to ensure the cut removes material from the correct face.
+   - Tilt the blade to 9.5°.
+   - Adjust the fence accordingly.
 
 5. **Perform Rip Cuts**:
-   - Rip along the length of the edge to create the face angle.
+   - Rip along the length of the edge to taper the sides.
 
 6. **Label Each Piece**:
-   - Mark pieces according to their shape (H for hexagon, P for pentagon).
+   - Mark pieces according to their shape (H for hexagon, P for pentagon, HP for half-pentagon).
 
 ### Notes:
 
@@ -179,7 +195,7 @@ Each edge piece requires three specific cuts on each end to achieve the correct 
    - Arrange six edge pieces in a hexagonal shape on a flat surface.
 
 2. **Drilling Holes**:
-   - **Bolt Holes**: Drill 1/2-inch holes 2 inches from each end, centered on the face.
+   - **Bolt Holes**: Drill 1/2-inch holes centered on the joint area, considering the bevel angle.
    - **Countersink**: Optional countersinking for bolt heads for a flush finish.
 
 3. **Bolting Together**:
@@ -191,16 +207,16 @@ Each edge piece requires three specific cuts on each end to achieve the correct 
    - Adjust edges to ensure the hexagon is flat and the joints are tight.
 
 5. **Tightening**:
-   - Once aligned, tighten bolts in a star pattern to distribute tension evenly.
+   - Once aligned, tighten bolts evenly.
 
 ### Assembling Pentagons
 
 - **Follow the same steps** as hexagons, adjusting for five edges and 36-degree miter cuts.
 
-### Assembling Half-Hexagons
+### Assembling Half-Pentagons
 
 1. **Layout**:
-   - Arrange four edge pieces to form a half-hexagon (three connected sides with one open side).
+   - Arrange three edge pieces to form a half-pentagon.
 
 2. **Assembly**:
    - Follow similar drilling and bolting procedures.
@@ -294,7 +310,7 @@ Each edge piece requires three specific cuts on each end to achieve the correct 
 
 - **Assembly Sequence**:
   - Start from the base and work upwards.
-  - Assemble pentagons and hexagons separately before connecting.
+  - Assemble hexagons, pentagons, and half-pentagons separately before connecting.
 
 - **Connecting Panels**:
   - Use bolts to join panels together at shared edges.
@@ -305,7 +321,7 @@ Each edge piece requires three specific cuts on each end to achieve the correct 
   - Adjust as necessary to maintain balance.
 
 - **Flat Bottom Surface**:
-  - Ensure the base pentagons and hexagons are aligned to create a flat bottom.
+  - Ensure the base panels are aligned to create a flat bottom.
   - May require trimming the bottom edges of base panels.
 
 - **Final Tightening**:
@@ -332,9 +348,9 @@ Each edge piece requires three specific cuts on each end to achieve the correct 
    - \( \sqrt{58 + 18 \times 2.2361} \approx 9.9124 \)
    - \( R = 4.6188 \times \frac{9.9124}{4} \approx 11.444 \text{ ft} \)
 
-2. **Diameter (D)**:
-   - \( D = 2R \)
-   - \( D = 2 \times 11.444 \approx 22.888 \text{ ft} \)
+2. **Adjusting for 5/8 Structure**:
+   - Since the structure is a 5/8 portion, the maximum height will be less than the full sphere.
+   - The diameter remains approximately **22.89 feet**, but the height will be less.
 
 **Conclusion**: The buckyball structure will have a diameter of approximately **22.89 feet**.
 
@@ -351,3 +367,4 @@ Each edge piece requires three specific cuts on each end to achieve the correct 
 ---
 
 By following this comprehensive plan, you can construct a precise, stable, and aesthetically pleasing buckyball structure. Enjoy your building project!
+
