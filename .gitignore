@@ -1,0 +1,31 @@
+# Blender-specific
+*.blend1
+*.blend2
+*.blend@
+*.blendfile
+*.tmp
+
+# Blender Cache
+*.blend-cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Simulation Cache
+*.abc
+*.vdb
+
+# macOS-specific
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# macOS: Resource fork files
+._*
+
+# Windows-specific
+Thumbs.db
+Desktop.ini
+
+# User settings (OS-independent)
+*.blend~*
